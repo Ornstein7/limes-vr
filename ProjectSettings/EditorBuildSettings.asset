@@ -12,5 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Laboratoire.unity
     guid: b1ec4cb71709e174a92916303a2134cd
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: dcdd22d60ef60d846bd17475b84aa6ed,
+      type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 38acfed42c727e44ea87626309ec0531,
       type: 2}
