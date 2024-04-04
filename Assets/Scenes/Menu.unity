@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.028140765, g: 0.03899409, b: 0.08756364, a: 1}
+  m_IndirectSpecularColor: {r: 0.028138056, g: 0.038991574, b: 0.087561384, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -4181,7 +4181,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Dans le cadre de notre projet d\u2019ESE, nous allons r\xE9aliser un monde
+  m_text: "Dans le cadre de notre projet d\u2019ESE, nous avons r\xE9aliser un monde
     virtuel."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5b036e831c0c90547b32a8a896d80f79, type: 2}
